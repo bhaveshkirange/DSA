@@ -1,4 +1,4 @@
-package com.demo.ms.dsa;
+package dev.bhavesh.dsa;
 
 class Node {
     int value;
